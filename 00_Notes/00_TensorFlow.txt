@@ -1,0 +1,16 @@
+1. TensorFlow 2.0.0 Installation:
+
+			a. Anaconda_x64;
+			b. nVidia Driver: updated based on GPU;
+			c. CUDA 10.0 sdk, for TensorFlow 2.0;
+			d. pip install tensorflow-gpu;
+			e. Download and install cuDNN (for CUDA 10.0) for CNN:
+				https://developer.nvidia.com/rdp/cudnn-archive
+			f. cmd:
+					pip install tensorflow-gpu==2.0.0
+=================================================================================================
+
+
+
+
+

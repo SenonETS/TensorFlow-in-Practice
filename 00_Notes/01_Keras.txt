@@ -1,0 +1,18 @@
+1. Error “Keras requires TensorFlow 2.2 or higher”
+	https://stackoverflow.com/questions/62465620/error-keras-requires-tensorflow-2-2-or-higher
+
+Solution:
+	Refer:
+			https://github.com/keras-team/keras/releases#:~:text=since%20this%20release-,Keras%202.3.,in%20sync%20with%20the%20tf.
+		
+			pip install tensorflow==2.0.0    % Keras is supported by tensorflow!
+			pip install keras==2.3.1
+			
+=================================================================================================
+
+
+
+
+
+
+
